@@ -2,8 +2,8 @@
 /* C U S T O M I Z A T I O N */
 
 :root {
-  --fgColor   : #ffffff; /* foreground color */
-  --bgColor   : #212121; /* background color */
+  --fgColor   : #ff93df; /* foreground color */
+  --bgColor   : #21222c; /* background color */
   --bgFilter  : rgba(0, 0, 0, 0.1); /* background image filter */
   --font      : "Roboto"; /* custom font */
 
