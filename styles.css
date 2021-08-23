@@ -4,7 +4,7 @@
 :root {
   --fgColor   : #ff93df; /* foreground color */
   --bgColor   : #21222c; /* background color */
-  --bgFilter  : rgba(0, 0, 0, 0.1); /* background image filter */
+  --bgFilter  : rgba(0, 0, 0, 0.8); /* background image filter */
   --font      : "Roboto"; /* custom font */
 
   --animationSpeed  : 0.2s; /* speed for animations when hovering/resizing */
