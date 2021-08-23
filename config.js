@@ -1,15 +1,11 @@
 const CONFIG = {
-  hour12  : false
+  hour12  : true
 }
 
 const ICONS = [
   {
     icon: "ri-youtube-fill",
     link: "https://www.youtube.com/"
-  },
-  {
-    icon: "ri-whatsapp-fill",
-    link: "https://web.whatsapp.com/"
   },
   {
     icon: "ri-reddit-fill",
@@ -33,9 +29,5 @@ const LIST_ITEMS = [
   {
     name: "r/unixporn",
     link: "https://www.reddit.com/r/unixporn/"
-  },
-  {
-    name: "r/firefoxcss",
-    link: "https://www.reddit.com/r/firefoxcss/"
   },
 ]
